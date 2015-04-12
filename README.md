@@ -13,8 +13,7 @@ SheduleParse(data, function(err, parsedata) {
                     if(err){
                         throw new Exception(err);
                     }
-                    else{
+                    else
                         console.log(parsedata);
-                    }
 });
 ```
