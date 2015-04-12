@@ -1,0 +1,22 @@
+{
+  "name": "grsu-shedule-parser",
+  "version": "1.0.0",
+  "description": "Parser for grsu schedule",
+  "main": "grsu-schedule-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zmzm/grsu-schedule-parser.git"
+  },
+  "keywords": [
+    "grsu"
+  ],
+  "author": "vlad_kovalskij <vladislav.kovalskij@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmzm/grsu-schedule-parser/issues"
+  },
+  "homepage": "https://github.com/zmzm/grsu-schedule-parser"
+}
