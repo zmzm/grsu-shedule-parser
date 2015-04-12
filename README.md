@@ -10,8 +10,11 @@ This module is designed to parse the GRSU schedules page.
 ```js
 var SheduleParse = require('grsu-shedule-parser');
 SheduleParse(data, function(err, parsedata) {
-                    if(err)
+                    if(err){
                         throw new Exception(err);
-                    console.log(parsedata);
+                    }
+                    else{
+                        console.log(parsedata);
+                    }
 });
 ```
